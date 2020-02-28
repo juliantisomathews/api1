@@ -10,6 +10,7 @@ What this includes:
 How to run the application:
 - open the api in your preferred code editor
 - run the server.js file in your terminal using: node server.js
+- then type "localhost:3000" into your web broswer.
 
 How I built my HTML page:
 - first started on the server side and built various end points using the get() function.
